@@ -1,9 +1,9 @@
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jiafei-cat&theme=radical&show_icons=true" alt="wakatime">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jiafei-cat&title_color=0083ef&icon_color=999&text_color=999999&bg_color=0,27282200,0000000F&show_icons=true&hide_border=true&count_private=true" alt="wakatime">
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiumubai&theme=radical"> -->
 ★-∽----∽-★-∽----∽-★
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=ch3cknull&theme=radical&layout=compact" alt="wakatime">
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=ch3cknull&hide=html,java,jupyter%20notebook,css&layout=compact&card_width=495&title_color=0083ef&icon_color=e28905&text_color=999999&bg_color=0,27282200,0000000F&hide_border=true" alt="wakatime">
 
 <div style="display: flex;">
   <div>
